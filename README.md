@@ -2,6 +2,9 @@
 
 Welcome to the repository for the FastFood Restaurant Landing Page. This project is a simple, yet effective landing page for a fast food restaurant, built using HTML5, CSS, JavaScript, Bootstrap, and jQuery 3.4.
 
+![Restaurant Image](images/PreviewFeaneFood.png)
+
+
 ## Table of Contents
 
 - [FastFood Restaurant Landing Page](#fastfood-restaurant-landing-page)
